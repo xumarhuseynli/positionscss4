@@ -1,0 +1,27 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+div{background-color: aqua;
+border: 2px solid black;
+display: inline-block;}
+
+.box1{width: 400px;
+    position: fixed;
+  
+height: 180px;}
+.box2{width: 300px;
+height: 320px;
+position: relative;
+left: 300px;
+top: 100px;}
+.box3{width: 800px;
+height: 120px;
+position: relative;
+right: 300px;
+top: 300px;}
+.box4{width: 120px;
+    position:relative;
+ 
+    bottom:-1px;
+    left: -340px;
+height: 400px;}

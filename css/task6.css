@@ -1,0 +1,35 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.box{width: 800px;
+height: 1000px;
+border: 3px solid black;
+margin: 10px 60px;
+position: fixed;}
+.box3{width: 1000px;
+    height: 40px;
+    background-color: yellow;
+    position: absolute;
+    top: 400px;
+    }
+    
+.box1{width: 40px;
+height: 800px;
+background-color: blueviolet;
+position: relative;
+left: 600px;
+bottom: 0px;}
+.box2{width: 260px;
+height: 40px;
+background-color: black;
+position: relative;
+bottom: 500px;
+left: 600px;}
+.box4{width: 800px;
+    height: 40px;
+    background-color: blue;
+    position: relative;
+    top: -300px;
+    left: 70px;
+    }
+    
